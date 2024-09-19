@@ -1,9 +1,9 @@
 # Snake
-Its Snake
+its Snake!
 
 ## Description
 
-a Snake clone made in a day using LinkedLists and Swing. 
+A Snake clone made in a day using LinkedLists and Swing. 
 - WSAD to move
 - R to restart
 
