@@ -8,8 +8,8 @@ A Snake clone made in a day using LinkedLists and Swing.
 - R to restart
 
 ### Installing & Executing program
-- Download and compile all of the files
-- Run SPaint.java
+- Download and compile all of the .java files
+- Run Snake.java
 
 ## Version History
 
